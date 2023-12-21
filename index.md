@@ -1,16 +1,4 @@
 
----
-```go
----
-layout: default
-title: "CS 194/294-267 Understanding Large Language Models: Foundations and Safety"
-permalink: /s24
-redirect_from:
-  - /
----
-```
----
-
 - ***Prospective students should first try enrolling in the course through CalCentral. The class number of CS 194-267 is 34188 and the class number of CS 294-267 is 34187. Please join the waitlist if the course is full. Please fill in the [enrollment petition form](https://forms.gle/g9SJYTzCY14HVcsc9) if you can neither enroll in the course nor join the waitlist. We will reach out to you if your petition is approved.***
 <!-- - ***For general course content related questions, please join our [edstem](https://edstem.org/us/courses/41945/discussion/).*** -->
 <!-- - ***<span style="color:red">Do not email the course staff or GSI. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</span>*** -->
