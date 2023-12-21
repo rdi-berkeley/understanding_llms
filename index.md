@@ -1,6 +1,9 @@
 
-- ***Prospective students should first try enrolling in the course through CalCentral. The class number of CS 194-267 is 34188 and the class number of CS 294-267 is 34187. Please join the waitlist if the course is full. Please fill in the [enrollment petition form](https://forms.gle/g9SJYTzCY14HVcsc9) if you can neither enroll in the course nor join the waitlist. We will reach out to you if your petition is approved.***
-<!-- - ***For general course content related questions, please join our [edstem](https://edstem.org/us/courses/41945/discussion/).*** -->
+- ***Prerequisite:*** **Prospective students should have taken CS 182/282A Deep Neural Networks or equivalent and had at least 3 months of hands-on experience with deep learning.**
+
+- Prospective students should ***first try enrolling in the course through CalCentral***. The class number of CS 194-267 (for undergraduate students) is 34188 and the class number of CS 294-267 (for graduate students) is 34187. ***Please join the waitlist if the course is full. Please fill in the [enrollment petition form](https://forms.gle/g9SJYTzCY14HVcsc9) if you can neither enroll in the course nor join the waitlist***. We will reach out to you if your petition is approved.
+
+<!-- - ***For course announcements, please join our [edstem](https://edstem.org/us/courses/41945/discussion/).*** -->
 <!-- - ***<span style="color:red">Do not email the course staff or GSI. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</span>*** -->
 
 ## Course Staff
@@ -9,12 +12,23 @@
 <table>
 <tbody>
 <tr>
-<td><img src="assets/dawn-berkeley.jpg" height=200/></td>
+<td>
+Instructor
+</td>
+<td>
+Co-instructor
+</td>
 </tr>
 <tr>
-<td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Prof. Dawn Song</a></td>
+<td><img src="assets/dawn-berkeley.jpg" height=200/></td>
+<td><img src="assets/dan1.jpg" height=200/></td>
+</tr>
 <tr>
-<td>UC Berkeley</td>
+<td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
+<td><a href="https://people.eecs.berkeley.edu/~hendrycks/">Dan Hendrycks</a></td>
+<tr>
+<td>Professor, UC Berkeley</td>
+<td>Director, Center for AI Safety</td>
 </tr>
 </tr>
 </tbody>
@@ -48,9 +62,9 @@ TBA
 
 ## Enrollment and Grading
 
-Prospective undergraduate students should have taken CS 182 Deep Neural Networks or equivalent and had at least 3 months of hands-on experience with deep learning.
-Undergraduate students should enroll in CS 194-267.
-Graduate students should enroll in CS 294-267. 
+***Prerequisite:*** **Prospective students should have taken CS 182/282A Deep Neural Networks or equivalent and had at least 3 months of hands-on experience with deep learning.**
+
+Prospective students should first try enrolling in the course through CalCentral. The class number of CS 194-267 (for undergraduate students) is 34188 and the class number of CS 294-267 (for graduate students) is 34187. Please join the waitlist if the course is full. Please fill in the [enrollment petition form](https://forms.gle/g9SJYTzCY14HVcsc9) if you can neither enroll in the course nor join the waitlist. We will reach out to you if your petition is approved.
 
 This is a variable-unit course.
 All enrolled students are expected to participate in lectures in person.
