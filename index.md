@@ -1,7 +1,19 @@
 
+---
+```go
+---
+layout: default
+title: "CS 194/294-267 Understanding Large Language Models: Foundations and Safety"
+permalink: /s24
+redirect_from:
+  - /
+---
+```
+---
+
 - ***Prospective students should first try enrolling in the course through CalCentral. The class number of CS 194-267 is 34188 and the class number of CS 294-267 is 34187. Please join the waitlist if the course is full. Please fill in the [enrollment petition form](https://forms.gle/g9SJYTzCY14HVcsc9) if you can neither enroll in the course nor join the waitlist. We will reach out to you if your petition is approved.***
 <!-- - ***For general course content related questions, please join our [edstem](https://edstem.org/us/courses/41945/discussion/).*** -->
-- ***<span style="color:red">Do not email the course staff or GSI. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</span>***
+<!-- - ***<span style="color:red">Do not email the course staff or GSI. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</span>*** -->
 
 ## Course Staff
 <!-- Instructors: <a href="https://people.eecs.berkeley.edu/~dawnsong/">Prof. Dawn Song</a> and <a href="https://people.eecs.berkeley.edu/~matei/">Prof. Matei Zaharia</a> -->
@@ -23,6 +35,8 @@
 GSI: Yu Gai
 
 ## Course Description
+
+TBA
 
 ## Syllabus (subject to change)
 
@@ -47,8 +61,8 @@ GSI: Yu Gai
 ## Enrollment and Grading
 
 Prospective undergraduate students should have taken CS 182 Deep Neural Networks or equivalent and had at least 3 months of hands-on experience with deep learning.
-Undergraduate students should enroll in CS 294-267.
-Graduate students should enroll in CS 194-267. 
+Undergraduate students should enroll in CS 194-267.
+Graduate students should enroll in CS 294-267. 
 
 This is a variable-unit course.
 All enrolled students are expected to participate in lectures in person.
@@ -82,8 +96,10 @@ The grade breakdowns for students enrolled in different units are the following:
 | Project final report    | TBA      | TBA    |
 
 ## Logistics
+
 Lecture: 3:30-5pm PT Tuesday in Soda 306
 <!-- [edstem](https://edstem.org/us/courses/41945/discussion/). -->
 
 ## Office Hours
+
 Yu Gai: TBA
