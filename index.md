@@ -1,5 +1,5 @@
 
-- ***Prerequisite:*** **Prospective students should have taken CS 182/282A Deep Neural Networks or equivalent and had at least 3 months of hands-on experience with deep learning.**
+- ***Prerequisite:*** **Prospective students should have taken CS 182/282A Deep Neural Networks or its equivalent(s) and had at least some hands-on experience with deep learning.**
 
 - Prospective students should ***first try enrolling in the course through CalCentral***. The class number of CS 194-267 (for undergraduate students) is 34188 and the class number of CS 294-267 (for graduate students) is 34187. ***Please join the waitlist if the course is full. Please fill in the [enrollment petition form](https://forms.gle/g9SJYTzCY14HVcsc9) if you can neither enroll in the course nor join the waitlist***. We will reach out to you if your petition is approved.
 
@@ -38,7 +38,17 @@ GSI: Yu Gai
 
 ## Course Description
 
-TBA
+Generative AI and Large Language Models (LLMs) including ChatGPT have ushered the world into a new era with rich new capabilities for wide-ranging application domains. At the same time, there is little understanding of how these new capabilities emerge, their limitations and potential risks. In this class, we will introduce foundations of LLMs, study methods for better understanding LLMs, discuss scaling laws and emergence, and explore the risks and challenges with these technologies and how we can build towards a responsible and democratized and decentralized future with AI. In particular, this class will cover a wide-ranging topics including:
+- Foundations of LLMs
+- Interpretability 
+- Scaling laws
+- Agency and emergence
+- Reasoning and mathematics
+- New architectures
+- Evaluation and benchmarking
+- Adversarial robustness
+- Privacy
+- AI safety, alignment, and governance
 
 ## Syllabus (subject to change)
 
@@ -62,7 +72,7 @@ TBA
 
 ## Enrollment and Grading
 
-***Prerequisite:*** **Prospective students should have taken CS 182/282A Deep Neural Networks or equivalent and had at least 3 months of hands-on experience with deep learning.**
+- ***Prerequisite:*** **Prospective students should have taken CS 182/282A Deep Neural Networks or its equivalent(s) and had at least some hands-on experience with deep learning.**
 
 Prospective students should first try enrolling in the course through CalCentral. The class number of CS 194-267 (for undergraduate students) is 34188 and the class number of CS 294-267 (for graduate students) is 34187. Please join the waitlist if the course is full. Please fill in the [enrollment petition form](https://forms.gle/g9SJYTzCY14HVcsc9) if you can neither enroll in the course nor join the waitlist. We will reach out to you if your petition is approved.
 
@@ -90,12 +100,12 @@ The grade breakdowns for students enrolled in different units are the following:
 
 |                         | Released | Due    |
 |-------------------------|----------|--------|
-| Project group formation | TBA      | TBA    |
-| Project proposal        | TBA      | TBA    |
-| Lab                     | TBA      | TBA    |
-| Project milestone       | TBA      | TBA    |
-| Project presentation    | TBA      | TBA    |
-| Project final report    | TBA      | TBA    |
+| Project group formation | Jan 16   | Jan 30 |
+| Project proposal        | Jan 23   | Feb 13 |
+| Lab                     | Jan 30   | Feb 27 |
+| Project milestone       | Feb 13   | Mar 19 |
+| Project presentation    | Mar 19   | Apr 16 |
+| Project final report    | Mar 19   | Apr 30 |
 
 ## Logistics
 
