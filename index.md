@@ -121,3 +121,25 @@ Lecture: 3:30-5pm PT Tuesday in Soda 306
 ## Office Hours
 
 Yu Gai: TBA
+
+## Example Readings
+
+Architectures: [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
+Scaling Laws: [LLMs](https://arxiv.org/abs/2001.08361), [RL](https://arxiv.org/abs/2301.13442)
+
+Adversarial Robustness: [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083), [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
+
+Trojans: [Poisoning and Backdooring Contrastive Learning](https://arxiv.org/abs/2106.09667)
+
+Privacy: [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035)
+
+Watermarking: [A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)
+
+Unlearning: [Large Language Model Unlearning](https://arxiv.org/abs/2310.10683)
+
+Interpretability: [Representation Engineering: A Top-Down Approach to AI Transparency](https://arxiv.org/abs/2310.01405), [In-context Learning and Induction Heads](https://arxiv.org/abs/2209.11895)
+
+Output Control and Machine Ethics: [RLHF](https://arxiv.org/abs/1706.03741), [MACHIAVELLI](https://arxiv.org/abs/2304.03279)
+
+Benchmarks: [DecodingTrust](https://decodingtrust.github.io), [MMLU](https://arxiv.org/abs/2009.03300), [MATH](https://arxiv.org/abs/2103.03874), [TruthfulQA](https://arxiv.org/abs/2109.07958)
