@@ -77,24 +77,25 @@ Generative AI and Large Language Models (LLMs) including ChatGPT have ushered th
 Prospective students should first try enrolling in the course through CalCentral. The class number of CS 194-267 (for undergraduate students) is 34188 and the class number of CS 294-267 (for graduate students) is 34187. Please join the waitlist if the course is full. Please fill in the [enrollment petition form](https://forms.gle/g9SJYTzCY14HVcsc9) if you can neither enroll in the course nor join the waitlist. We will reach out to you if your petition is approved.
 
 This is a variable-unit course.
-All enrolled students are expected to participate in lectures in person.
+All enrolled students are expected to attend lectures in person and submit reading summaries and questions for Q&A before each lecture.
 Students enrolling in one unit are expected to write an article that summarizes one of the lectures.
 Students enrolling in more than one units are expected to complete a lab assignment and a project.
 The project of students enrolling in 2 units should have a written report, which can be a survey in an area relevant to LLMs.
 The project of students enrolling in 3 units should also have an implementation (coding) component that programmatically interacts with LLMs, and the project of students enrolling in 4 units should have a significant implementation component with the potential for either real world impacts or intellectual contributions.
 The grade breakdowns for students enrolled in different units are the following:
 
-|                    | 1 unit | 2 units | 3/4 units |
-|--------------------|--------|---------|-----------|
-| Participation      | 50%    | 20%     | 10%       |
-| Article            | 50%    |         |           |
-| Lab                |        | 20%     | 10%       |
-| Project            |        |         |           |
-| - *Proposal*       |        | 10%     | 10%       |
-| - *Milestone*      |        | 10%     | 10%       |
-| - *Presentation*   |        | 25%     | 25%       |
-| - *Report*         |        | 15%     | 15%       |
-| - *Implementation* |        |         | 20%       |
+|                                       | 1 unit | 2 units | 3/4 units |
+|---------------------------------------|--------|---------|-----------|
+| Lecture participation                 | 25%    | 10%     | 5%        |
+| Reading summaries & questions for Q&A | 25%    | 10%     | 5%        |
+| Article                               | 50%    |         |           |
+| Lab                                   |        | 20%     | 10%       |
+| Project                               |        |         |           |
+| - *Proposal*                          |        | 10%     | 10%       |
+| - *Milestone*                         |        | 10%     | 10%       |
+| - *Presentation*                      |        | 25%     | 25%       |
+| - *Report*                            |        | 15%     | 15%       |
+| - *Implementation*                    |        |         | 20%       |
 
 ## Lab and Project Timeline
 
