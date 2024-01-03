@@ -1,3 +1,8 @@
+---
+permalink: /s24
+redirect_from:
+ - /
+---
 
 - ***Prerequisite:*** **Prospective students should have taken CS 182/282A Deep Neural Networks or its equivalent(s) and had at least some hands-on experience with deep learning.**
 
