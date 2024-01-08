@@ -21,7 +21,7 @@ redirect_from:
 Instructor
 </td>
 <td>
-Co-instructor
+(Guest) Co-instructor
 </td>
 </tr>
 <tr>
@@ -40,6 +40,11 @@ Co-instructor
 </table>
 
 GSI: Yu Gai
+
+## Class Time and Location
+
+Lecture: 3:30-5pm PT Tuesday in Soda 306
+<!-- [edstem](https://edstem.org/us/courses/41945/discussion/). -->
 
 ## Course Description
 
@@ -112,11 +117,6 @@ The grade breakdowns for students enrolled in different units are the following:
 | Project milestone       | Feb 13   | Mar 19 |
 | Project presentation    | Mar 19   | Apr 16 |
 | Project final report    | Mar 19   | Apr 30 |
-
-## Logistics
-
-Lecture: 3:30-5pm PT Tuesday in Soda 306
-<!-- [edstem](https://edstem.org/us/courses/41945/discussion/). -->
 
 ## Office Hours
 
