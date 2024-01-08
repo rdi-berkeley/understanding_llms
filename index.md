@@ -40,10 +40,11 @@ Instructor
 
 GSI: Yu Gai
 
+[edstem](https://edstem.org/us/courses/51702/discussion)
+
 ## Class Time and Location
 
 Lecture: 3:30-5pm PT Tuesday in Soda 306
-<!-- [edstem](https://edstem.org/us/courses/41945/discussion/). -->
 
 ## Course Description
 
