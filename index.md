@@ -4,7 +4,7 @@ redirect_from:
  - /
 ---
 
-- ***Prerequisite:*** **Prospective students should have taken CS 182/282A Deep Neural Networks or its equivalent(s) and had at least some hands-on experience with deep learning.**
+- ***Prerequisite:*** **Prospective students should have taken CS 182/282A Deep Neural Networks or its equivalent(s) and had some hands-on experience with deep learning.**
 
 - Prospective students should ***first try enrolling in the course through CalCentral***. The class number of CS 194-267 (for undergraduate students) is 34188 and the class number of CS 294-267 (for graduate students) is 34187. Please join the waitlist if the course is full. ***Please fill in the [enrollment petition form](https://forms.gle/g9SJYTzCY14HVcsc9) if you are on or cannot join the waitlist***. We will reach out to you if your petition is approved.
 
@@ -12,7 +12,6 @@ redirect_from:
 <!-- - ***<span style="color:red">Do not email the course staff or GSI. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</span>*** -->
 
 ## Course Staff
-<!-- Instructors: <a href="https://people.eecs.berkeley.edu/~dawnsong/">Prof. Dawn Song</a> and <a href="https://people.eecs.berkeley.edu/~matei/">Prof. Matei Zaharia</a> -->
 
 <table>
 <tbody>
@@ -62,27 +61,27 @@ Generative AI and Large Language Models (LLMs) including ChatGPT have ushered th
 
 ## Syllabus (subject to change)
 
-| Date   | Topic |
-|--------|-------|
-| Jan 16 | TBA |
-| Jan 23 | TBA |
-| Jan 30 | TBA |
-| Feb 6  | TBA |
-| Feb 13 | TBA |
-| Feb 20 | TBA |
-| Feb 27 | TBA |
-| Mar 5  | TBA |
-| Mar 12 | TBA |
-| Mar 19 | TBA |
-| Mar 26 | Spring recess |
-| Apr 2  | TBA |
-| Apr 9  | TBA |
-| Apr 16 | Poster session & workshop |
-| Apr 23 | TBA |
+| Date   | Topic | Reading assignment |
+|--------|-------|--------------------|
+| Jan 16 | Intro & overview | |
+| Jan 23 | TBA | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) |
+| Jan 30 | TBA | |
+| Feb 6  | TBA | |
+| Feb 13 | TBA | |
+| Feb 20 | TBA | |
+| Feb 27 | TBA | |
+| Mar 5  | TBA | |
+| Mar 12 | TBA | |
+| Mar 19 | TBA | |
+| Mar 26 | Spring recess | |
+| Apr 2  | TBA | |
+| Apr 9  | TBA | |
+| Apr 16 | Poster session & workshop | |
+| Apr 23 | TBA | |
 
 ## Enrollment and Grading
 
-- ***Prerequisite:*** **Prospective students should have taken CS 182/282A Deep Neural Networks or its equivalent(s) and had at least some hands-on experience with deep learning.**
+- ***Prerequisite:*** **Prospective students should have taken CS 182/282A Deep Neural Networks or its equivalent(s) and had some hands-on experience with deep learning.**
 
 Prospective students should first try enrolling in the course through CalCentral. The class number of CS 194-267 (for undergraduate students) is 34188 and the class number of CS 294-267 (for graduate students) is 34187. Please join the waitlist if the course is full. Please fill in the [enrollment petition form](https://forms.gle/g9SJYTzCY14HVcsc9) if you are on or cannot join the waitlist. We will reach out to you if your petition is approved.
 
