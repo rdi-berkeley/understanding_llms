@@ -64,8 +64,8 @@ Generative AI and Large Language Models (LLMs) including ChatGPT have ushered th
 
 | Date   | Topic | Reading assignment |
 |--------|-------|--------------------|
-| Jan 16 | Intro & overview | |
-| Jan 23 | TBA | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) |
+| Jan 19 | Intro & transformer, LLM foundations | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) |
+| Jan 23 | TBA | |
 | Jan 30 | TBA | |
 | Feb 6  | TBA | |
 | Feb 13 | TBA | |
@@ -77,7 +77,7 @@ Generative AI and Large Language Models (LLMs) including ChatGPT have ushered th
 | Mar 26 | Spring recess | |
 | Apr 2  | TBA | |
 | Apr 9  | TBA | |
-| Apr 16 | Poster session & workshop | |
+| Apr 16 | Poster session | |
 | Apr 23 | TBA | |
 
 ## Enrollment and Grading
