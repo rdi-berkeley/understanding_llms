@@ -111,7 +111,7 @@ The grade breakdowns for students enrolled in different units are the following:
 
 |                         | Released | Due    |
 |-------------------------|----------|--------|
-| Project group formation | Jan 16   | Jan 30 |
+| Project group formation | Jan 19   | Jan 30 |
 | Project proposal        | Jan 23   | Feb 13 |
 | Lab                     | Jan 30   | Feb 27 |
 | Project milestone       | Feb 13   | Mar 19 |
