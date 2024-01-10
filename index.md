@@ -64,8 +64,8 @@ Generative AI and Large Language Models (LLMs) including ChatGPT have ushered th
 
 | Date   | Topic | Reading assignment |
 |--------|-------|--------------------|
-| Jan 19 | Intro & transformer, LLM foundations | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) |
-| Jan 23 | TBA | |
+| Jan 19 | **Intro & transformer, LLM foundations** <br> Guest speaker: Łukasz Kaiser (Member of Technical Staff, OpenAI) | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) |
+| Jan 23 | **AI Safety primer and representation engineering** <br> Guest speaker: Dan Hendrycks (Director, Center for AI Safety) | [Unsolved Problems in ML Safety](https://arxiv.org/abs/2109.13916) <br> [Representation Engineering: A Top-Down Approach to AI Transparency](https://arxiv.org/abs/2310.01405) <br> (Optional) [An Overview of Catastrophic AI Risks](https://arxiv.org/abs/2306.12001) |
 | Jan 30 | TBA | |
 | Feb 6  | TBA | |
 | Feb 13 | TBA | |
