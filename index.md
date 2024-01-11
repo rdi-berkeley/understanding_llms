@@ -46,7 +46,7 @@ GSI: Yu Gai
 
 Lecture: 3:30-5pm PT Tuesday at Soda 306
 
-**First lecture rescheduled to Jan 19 noon-1:30pm at Soda 306.**
+**First lecture rescheduled to Jan 19 noon-1:30pm at Soda 306**
 
 ## Course Description
 
