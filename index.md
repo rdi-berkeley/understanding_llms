@@ -4,6 +4,8 @@ redirect_from:
  - /
 ---
 
+- **Do not email the course staff. For private matters, post a private question on [edstem](https://edstem.org/us/courses/41945/discussion/) and make sure it is visible to all teaching staff.**
+
 - ***Prerequisite:*** **Prospective students should have taken CS 182/282A Deep Neural Networks or its equivalent(s) and had some hands-on experience with deep learning.**
 
 - Prospective students should ***first try enrolling in the course through CalCentral***. The class number of CS 194-267 (for undergraduate students) is 34188 and the class number of CS 294-267 (for graduate students) is 34187. Please join the waitlist if the course is full. ***Please fill in the [enrollment petition form](https://forms.gle/g9SJYTzCY14HVcsc9) if you are on or cannot join the waitlist***. We will reach out to you if your petition is approved.
