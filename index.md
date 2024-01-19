@@ -68,8 +68,8 @@ Generative AI and Large Language Models (LLMs) including ChatGPT have ushered th
 
 | Date   | Topic | Readings <br> (forms due at 2pm before the day of the lecture) |
 |--------|-------|----------|
-| Jan 19 | **Intro & transformer, LLM foundations** <br> Guest speaker: Łukasz Kaiser (Member of Technical Staff, OpenAI) | - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) <br> - [Chain-of-Thought Prompting](https://arxiv.org/abs/2201.11903) <br> - (Optional) [Neural GPUs](https://arxiv.org/abs/1511.08228) <br> - (Optional) [GPT becoming a Turing machine](https://arxiv.org/abs/2303.14310) <br> **Fill [this](https://forms.gle/7L32LGARW66fcYx76) out after you read the papers!** |
-| Jan 23 | **AI Safety primer and representation engineering** <br> Guest speaker: Dan Hendrycks (Director, Center for AI Safety) | - [Unsolved Problems in ML Safety](https://arxiv.org/abs/2109.13916) <br> - [Representation Engineering](https://arxiv.org/abs/2310.01405) <br> - (Optional) [Catastrophic AI Risks](https://arxiv.org/abs/2306.12001) <br> **Fill [this](https://forms.gle/35BfFWG9Qez7A9va7) out after you read the papers!** |
+| Jan 19 | **Intro & transformer, LLM foundations** <br> Guest speaker: Łukasz Kaiser (Member of Technical Staff, OpenAI) | - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) <br> - [Chain-of-Thought Prompting](https://arxiv.org/abs/2201.11903) <br> - (Optional) [Neural GPUs](https://arxiv.org/abs/1511.08228) <br> - (Optional) [GPT becoming a Turing machine](https://arxiv.org/abs/2303.14310) <br> *Fill [this](https://forms.gle/7L32LGARW66fcYx76) out after reading the papers!* |
+| Jan 23 | **AI Safety primer and representation engineering** <br> Guest speaker: Dan Hendrycks (Director, Center for AI Safety) | - [Unsolved Problems in ML Safety](https://arxiv.org/abs/2109.13916) <br> - [Representation Engineering](https://arxiv.org/abs/2310.01405) <br> - (Optional) [Catastrophic AI Risks](https://arxiv.org/abs/2306.12001) <br> *Fill [this](https://forms.gle/35BfFWG9Qez7A9va7) out after reading the papers!* |
 | Jan 30 | TBA | |
 | Feb 6  | TBA | |
 | Feb 13 | TBA | |
