@@ -4,7 +4,7 @@ redirect_from:
  - /
 ---
 
-- **Do not email the course staff. For private matters, post a private question on [edstem](https://edstem.org/us/courses/41945/discussion/) and make sure it is visible to all teaching staff.**
+- **Do not email the course staff. For private matters, post a private question on [edstem](https://edstem.org/us/courses/51702/discussion/) and make sure it is visible to all teaching staff.**
 
 - ***Prerequisite:*** **Prospective students should have taken CS 182/282A Deep Neural Networks or its equivalent(s) and had some hands-on experience with deep learning.**
 
