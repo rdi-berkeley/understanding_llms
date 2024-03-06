@@ -81,7 +81,7 @@ Generative AI and Large Language Models (LLMs) including ChatGPT have ushered th
 | Mar 26 | Spring recess | |
 | Apr 2  | TBA | |
 | Apr 9  | TBA | |
-| Apr 16 | Poster session | |
+| Apr 16 | TBA | |
 | Apr 23 | TBA | |
 
 ## Enrollment and Grading
