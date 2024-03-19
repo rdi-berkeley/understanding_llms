@@ -82,7 +82,7 @@ Generative AI and Large Language Models (LLMs) including ChatGPT have ushered th
 | Apr 2  | TBA | |
 | Apr 9  | TBA | |
 | Apr 16 | TBA | |
-| Apr 23 | TBA | |
+| Apr 23 | Project presentation | |
 
 ## Enrollment and Grading
 
@@ -119,7 +119,7 @@ The grade breakdowns for students enrolled in different units are the following:
 | Project proposal        | Jan 23   | Feb 13 |
 | Lab                     | Jan 30   | Feb 27 |
 | Project milestone       | Feb 13   | Mar 19 |
-| Project presentation    | Mar 19   | Apr 16 |
+| Project presentation    | Mar 19   | Apr 23 |
 | Project final report    | Mar 19   | Apr 30 |
 
 ## Office Hours
