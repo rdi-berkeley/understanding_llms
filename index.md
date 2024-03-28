@@ -80,8 +80,8 @@ Generative AI and Large Language Models (LLMs) including ChatGPT have ushered th
 | Mar 19 | **The security of LLMs** <br> Guest speaker: Nicholas Carlini (Research Scientist, Google DeepMind) | - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043) <br> - (Optional) [Poisoning Web-Scale Training Datasets is Practical](https://arxiv.org/abs/2302.10149) <br> - (Optional) [Stealing Part of a Production Language Model](https://arxiv.org/abs/2403.06634) <br> *Fill [this](https://forms.gle/3MM8E4vpmAWzdZZm8) out after reading the papers!* |
 | Mar 26 | Spring recess | |
 | Apr 2  | No lecture | |
-| Apr 9  | TBA | |
-| Apr 16 | TBA | |
+| Apr 9  | Guest speaker: Dan Hendrycks (Director, Center for AI Safety) | |
+| Apr 16 | Guest speaker: Christian Szegedy (Co-founder, xAI) | |
 | Apr 23 | Project presentation | |
 
 ## Enrollment and Grading
