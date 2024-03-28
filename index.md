@@ -126,6 +126,7 @@ The grade breakdowns for students enrolled in different units are the following:
 
 Yu Gai: TBA
 
+<!---
 ## Example Readings
 
 Architectures: [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
@@ -147,3 +148,4 @@ Interpretability: [Representation Engineering: A Top-Down Approach to AI Transpa
 Output Control and Machine Ethics: [DPO](https://arxiv.org/abs/2305.18290), [RLHF](https://arxiv.org/abs/1706.03741), [MACHIAVELLI](https://arxiv.org/abs/2304.03279)
 
 Benchmarks: [DecodingTrust](https://decodingtrust.github.io), [MMLU](https://arxiv.org/abs/2009.03300), [MATH](https://arxiv.org/abs/2103.03874), [TruthfulQA](https://arxiv.org/abs/2109.07958)
+-->
