@@ -124,7 +124,7 @@ The grade breakdowns for students enrolled in different units are the following:
 
 ## Office Hours
 
-Yu Gai: TBA
+[Yu Gai](https://edstem.org/us/courses/51702/discussion/4186218)
 
 <!---
 ## Example Readings
