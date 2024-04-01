@@ -79,8 +79,8 @@ Generative AI and Large Language Models (LLMs) including ChatGPT have ushered th
 | Mar 12 | **Using AI to understand AI [(slides)](assets/mar12.pdf)** <br> Guest speaker: Jacob Steinhardt (Assistant Professor, UC Berkeley) | - [Interpreting CLIP's Image Representation via Text-Based Decomposition](https://arxiv.org/abs/2310.05916) <br> - [Mass-Producing Failures of Multimodal Systems with Language Models](https://arxiv.org/abs/2306.12105) <br> - (Optional) [Describing Differences between Text Distributions with Natural Language](https://arxiv.org/abs/2201.12323) <br>  *Fill [this](https://forms.gle/VJqbWHmLdkwdC6ih9) out for bonus points!* |
 | Mar 19 | **The security of LLMs** <br> Guest speaker: Nicholas Carlini (Research Scientist, Google DeepMind) | - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043) <br> - (Optional) [Poisoning Web-Scale Training Datasets is Practical](https://arxiv.org/abs/2302.10149) <br> - (Optional) [Stealing Part of a Production Language Model](https://arxiv.org/abs/2403.06634) <br> *Fill [this](https://forms.gle/3MM8E4vpmAWzdZZm8) out after reading the papers!* |
 | Mar 26 | Spring recess | |
-| Apr 2  | TBA | |
-| Apr 9  | Guest speaker: Dan Hendrycks (Director, Center for AI Safety) | |
+| Apr 2  | No lecture | |
+| Apr 9  | Guest speaker: Max Tegmark (Professor, MIT) | |
 | Apr 16 | Guest speaker: Christian Szegedy (Co-founder, xAI) | |
 | Apr 23 | Project presentation | |
 
