@@ -81,7 +81,7 @@ Generative AI and Large Language Models (LLMs) including ChatGPT have ushered th
 | Mar 26 | Spring recess | |
 | Apr 2  | No lecture | |
 | Apr 9  | **Towards safer AI though mechanistic interpretability and formal verification** <br> Guest speaker: Max Tegmark (Professor, MIT) | - [Opening the AI black box: program synthesis via mechanistic interpretability](https://arxiv.org/abs/2402.05110) <br> *Fill [this](https://forms.gle/9Tr1tCHyATYM9ScSA) out after reading the papers!* |
-| Apr 16 | Guest speaker: Christian Szegedy (Co-founder, xAI) | - [Autoformalization with Large Language Models](https://arxiv.org/abs/2205.12615) <br> - (Optional) [Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs](https://arxiv.org/abs/2210.12283) <br> - (Optional) [Magnushammer: A Transformer-Based Approach to Premise Selection](https://arxiv.org/abs/2303.04488) <br> *Fill [this](https://forms.gle/Rz99V1Zxk964DYCJ9) out after reading the papers!* |
+| Apr 16 | **Deep Learning for Mathematical Reasoning ([slides](assets/apr16.pdf))** Guest speaker: Christian Szegedy (Co-founder, xAI) | - [Autoformalization with Large Language Models](https://arxiv.org/abs/2205.12615) <br> - (Optional) [Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs](https://arxiv.org/abs/2210.12283) <br> - (Optional) [Magnushammer: A Transformer-Based Approach to Premise Selection](https://arxiv.org/abs/2303.04488) <br> *Fill [this](https://forms.gle/Rz99V1Zxk964DYCJ9) out after reading the papers!* |
 | Apr 23 | Project presentation | |
 
 ## Enrollment and Grading
