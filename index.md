@@ -16,26 +16,29 @@ redirect_from:
 ## Course Staff
 
 <table>
+<caption>Course Staff</caption>
+<thead>
+<tr>
+<th>Role</th>
+<th>Person</th>
+</tr>
+</thead>
 <tbody>
 <tr>
-<td>
-Instructor
-</td>
-<td>
-(Guest) Co-instructor
-</td>
+<td>Instructor</td>
+<td>(Guest) Co-instructor</td>
 </tr>
 <tr>
-<td><img src="assets/dawn-berkeley.jpg" height=200/></td>
-<td><img src="assets/dan1.jpg" height=200/></td>
+<td><img src="assets/dawn-berkeley.jpg" height=200 alt="Dawn Song"/></td>
+<td><img src="assets/dan1.jpg" height=200 alt="Dan Hendrycks"/></td>
 </tr>
 <tr>
 <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
 <td><a href="https://people.eecs.berkeley.edu/~hendrycks/">Dan Hendrycks</a></td>
+</tr>
 <tr>
 <td>Professor, UC Berkeley</td>
 <td>Director, Center for AI Safety</td>
-</tr>
 </tr>
 </tbody>
 </table>
