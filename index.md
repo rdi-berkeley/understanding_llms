@@ -8,7 +8,7 @@ redirect_from:
 
 - ***Prerequisite:*** **Prospective students should have taken CS 182/282A Deep Neural Networks or its equivalent(s) and had some hands-on experience with deep learning.**
 
-- Prospective students should ***first try enrolling in the course through CalCentral***. The class number of CS 194-267 (for undergraduate students) is 34188 and the class number of CS 294-267 (for graduate students) is 34187. Please join the waitlist if the course is full. ***Please fill in the [enrollment petition form](https://forms.gle/g9SJYTzCY14HVcsc9) if you are on or cannot join the waitlist***. We will reach out to you if your petition is approved.
+- Prospective students should ***first try enrolling in the course through CalCentral***. The class number of CS 194-267 (for undergraduate students) is 34188 and the class number of CS 294-267 (for graduate students) is 34187. Please join the waitlist if the course is full. ***Please fill in the <a href="https://forms.gle/g9SJYTzCY14HVcsc9" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">enrollment petition form</a> if you are on or cannot join the waitlist***. We will reach out to you if your petition is approved.
 
 <!-- - ***For course announcements, please join our [edstem](https://edstem.org/us/courses/41945/discussion/).*** -->
 <!-- - ***<span style="color:red">Do not email the course staff or GSI. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</span>*** -->
@@ -91,7 +91,7 @@ Generative AI and Large Language Models (LLMs) including ChatGPT have ushered th
 
 - ***Prerequisite:*** **Prospective students should have taken CS 182/282A Deep Neural Networks or its equivalent(s) and had some hands-on experience with deep learning.**
 
-Prospective students should first try enrolling in the course through CalCentral. The class number of CS 194-267 (for undergraduate students) is 34188 and the class number of CS 294-267 (for graduate students) is 34187. Please join the waitlist if the course is full. Please fill in the [enrollment petition form](https://forms.gle/g9SJYTzCY14HVcsc9) if you are on or cannot join the waitlist. We will reach out to you if your petition is approved.
+Prospective students should first try enrolling in the course through CalCentral. The class number of CS 194-267 (for undergraduate students) is 34188 and the class number of CS 294-267 (for graduate students) is 34187. Please join the waitlist if the course is full. Please fill in the <a href="https://forms.gle/g9SJYTzCY14HVcsc9" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">enrollment petition form</a> if you are on or cannot join the waitlist. We will reach out to you if your petition is approved.
 
 This is a variable-unit course.
 All enrolled students are expected to attend lectures in person and submit reading summaries and questions for Q&A before each lecture.
