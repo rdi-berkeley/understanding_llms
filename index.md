@@ -4,6 +4,8 @@ redirect_from:
  - /
 ---
 
+- **If you do not have a Berkeley email account, you can find most lecture recordings [here](https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe).**
+
 - **Do not email the course staff. For private matters, post a private question on [edstem](https://edstem.org/us/courses/51702/discussion/) and make sure it is visible to all teaching staff.**
 
 - ***Prerequisite:*** **Prospective students should have taken CS 182/282A Deep Neural Networks or its equivalent(s) and had some hands-on experience with deep learning.**
