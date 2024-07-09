@@ -4,7 +4,7 @@ redirect_from:
  - /
 ---
 
-***Videos:*** ** [Youtube videos of many of the lectures are available here.](https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe)**
+***Videos:*** **[Youtube videos of many of the lectures are available here.](https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe)**
 
 ***Prerequisite:*** **Prospective students should have taken CS 182/282A Deep Neural Networks or its equivalent(s) and had some hands-on experience with deep learning.**
 
